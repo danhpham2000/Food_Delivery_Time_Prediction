@@ -4,3 +4,6 @@ Food delivery is a courier service in which a restaurant, store, or independent 
 
 ### Goal:
 Given the order details, driver information and distance between the restaurant and destination, predict the time (min) to deliver
+
+
+Note: The project is being developed, estimate time completed is by the end of my academic semester (30 May 2023)
